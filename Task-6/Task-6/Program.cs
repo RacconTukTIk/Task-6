@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Task_6
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             CheckFermat();
         }
 
-        static void CheckFermat()
+        public static void CheckFermat()
         {
 
             for (int n = 1; n < 4; n++)
@@ -22,7 +22,7 @@ namespace Task_6
                 {
                     for (int b = 1; b < 10; b++)
                     {
-                        for (int c = 1; c  10; c++)
+                        for (int c = 1; c <10; c++)
                         {
                             if (CheckFermat(a, b, c, n))
                             {
@@ -34,7 +34,7 @@ namespace Task_6
             }
         }
 
-        static bool CheckFermat(int a, int b, int c, int n)
+        public static bool CheckFermat(int a, int b, int c, int n)
         {
             return Math.Pow(a, n) + Math.Pow(b, n) == Math.Pow(c, n);
         }
