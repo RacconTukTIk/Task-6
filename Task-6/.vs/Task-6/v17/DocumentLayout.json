@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vladr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0418 \u0414\u0417 2 \u043A\u0443\u0440\u0441\\Hell\\Task-6\\Task-6\\",
+  "WorkspaceRootPath": "C:\\Task-6\\Task-6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{963E7F8D-A68D-44A9-8BEB-1E9FC4352505}|Task-6\\Task-6.csproj|c:\\users\\vladr\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0438 \u0434\u0437 2 \u043A\u0443\u0440\u0441\\hell\\task-6\\task-6\\task-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963E7F8D-A68D-44A9-8BEB-1E9FC4352505}|Task-6\\Task-6.csproj|solutionrelative:task-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A663EBA-DBC8-4DE9-9B14-2AB1ED9281E2}|TestProject1\\TestProject1.csproj|c:\\task-6\\task-6\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A663EBA-DBC8-4DE9-9B14-2AB1ED9281E2}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A663EBA-DBC8-4DE9-9B14-2AB1ED9281E2}|TestProject1\\TestProject1.csproj|c:\\users\\vladr\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0438 \u0434\u0437 2 \u043A\u0443\u0440\u0441\\hell\\task-6\\task-6\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A663EBA-DBC8-4DE9-9B14-2AB1ED9281E2}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963E7F8D-A68D-44A9-8BEB-1E9FC4352505}|Task-6\\Task-6.csproj|c:\\task-6\\task-6\\task-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963E7F8D-A68D-44A9-8BEB-1E9FC4352505}|Task-6\\Task-6.csproj|solutionrelative:task-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,34 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\vladr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0418 \u0414\u0417 2 \u043A\u0443\u0440\u0441\\Hell\\Task-6\\Task-6\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Task-6\\Task-6\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\vladr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0418 \u0414\u0417 2 \u043A\u0443\u0440\u0441\\Hell\\Task-6\\Task-6\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Task-6\\Task-6\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAzAAAA",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T17:29:59.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vladr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0418 \u0414\u0417 2 \u043A\u0443\u0440\u0441\\Hell\\Task-6\\Task-6\\Task-6\\Program.cs",
+              "DocumentMoniker": "C:\\Task-6\\Task-6\\Task-6\\Program.cs",
               "RelativeDocumentMoniker": "Task-6\\Program.cs",
-              "ToolTip": "C:\\Users\\vladr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0418 \u0414\u0417 2 \u043A\u0443\u0440\u0441\\Hell\\Task-6\\Task-6\\Task-6\\Program.cs",
+              "ToolTip": "C:\\Task-6\\Task-6\\Task-6\\Program.cs",
               "RelativeToolTip": "Task-6\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCQAAAAPAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:43:07.121Z",
               "EditorCaption": ""

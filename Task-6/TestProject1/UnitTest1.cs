@@ -31,7 +31,7 @@ namespace TestProject
         public void TestFermatWithZero()
         {
             
-            Assert.IsTrue(CheckFermat(0, 0, 0, 2));
+            Assert.IsFalse(CheckFermat(0, 0, 0, 2));
         }
     }
 }

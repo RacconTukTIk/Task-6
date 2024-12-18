@@ -10,7 +10,7 @@ namespace Task_6
     {
         static void Main(string[] args)
         {
-            CheckFermat();
+           CheckFermat();
         }
 
         public static void CheckFermat()
@@ -36,6 +36,8 @@ namespace Task_6
 
         public static bool CheckFermat(int a, int b, int c, int n)
         {
+            if (a == 0 && b == 0 && c == 0)
+            { return false; }
             return Math.Pow(a, n) + Math.Pow(b, n) == Math.Pow(c, n);
         }
     }
