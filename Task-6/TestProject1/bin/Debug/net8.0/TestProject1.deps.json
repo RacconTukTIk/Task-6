@@ -319,10 +319,7 @@
       "System.Reflection.Metadata/1.6.0": {},
       "Task-6/1.0.0": {
         "runtime": {
-          "Task-6.exe": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Task-6.exe": {}
         }
       }
     }
